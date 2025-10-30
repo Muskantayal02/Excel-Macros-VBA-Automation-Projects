@@ -117,11 +117,10 @@ Generate formatted, validated weekly loan reports with computed ratios and highl
 2. Converted currency columns to Dollar format (Loan Amount, Installment, etc.).
 3. Removed redundant columns.
 4. Added computed column Debt-to-Income = Installment / (Annual_Income / 12) using formula insertion (R1C1 style).
-5. Sorted data descending by Debt-to-Income ratio.
-6. Replaced Delinquent → Charged Off in Loan_Status.
-7. Applied conditional formatting (red fill for Charged Off).
-8. Auto-fit columns for a clean layout.
-9. Added meaningful comments within the VBA editor for clarity.
+5. Replaced Delinquent → Charged Off in Loan_Status.
+6. Applied conditional formatting (red fill for Charged Off).
+7. Auto-fit columns for a clean layout.
+8. Added meaningful comments within the VBA editor for clarity.
 
 **Screenshots:**
 
