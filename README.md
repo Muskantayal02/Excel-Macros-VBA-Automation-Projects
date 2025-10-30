@@ -65,6 +65,7 @@ Button-linked automation demonstration
 **Skills:**
 
 Formatting automation, dynamic selection, chart creation, button-linked macros, UI Integration.
+
 &nbsp;
 
 **B) Project 2 – Customer Data Cleaning** (Macro: “Clean_Data”) 
@@ -96,6 +97,7 @@ Automated cleaning process that standardizes name fields and identifies pending 
 **Skills:**
 
 Data cleaning automation, text parsing, conditional formatting via VBA, button-based macro execution.
+
 &nbsp;
 
 **C) Project 3 – Loan Report Automation** (Macro: “Loans_Report”) 
@@ -132,9 +134,10 @@ Week_1 → Week_3 automation result
 **Skills:**
 
 Data transformation, formula automation, sorting, text replacement, conditional formatting, Calculated columns, documentation.
+
 &nbsp;
 
-**D) Project 4 – Departmental Performance Chart Automation** (Macro:"CreateChart")
+**D) Project 4 – Departmental Performance Chart Automation** (Macro: "CreateChart")
 
 (_File: Macros_Project4.xlsm_)
 &nbsp;
