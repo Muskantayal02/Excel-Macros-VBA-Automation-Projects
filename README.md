@@ -29,14 +29,12 @@ All project outputs are consolidated as **macro-enabled Excel workbooks** (.xlsm
 - Interactive Button & Shortcut-Based Execution
 - Multi-Sheet Automation
 - Process Documentation & Debugging
-  
   &nbsp;
 
 **PROJECT SUMMARIES**
 &nbsp;
 
 **A) Project 1 – Financial Data Formatting** (Macro: “Format”) (_File: Macros_Project1.xlsm_)
-
 &nbsp;
 
 **Goal:**
@@ -65,7 +63,6 @@ Button-linked automation demonstration
 **Skills:**
 
 Formatting automation, dynamic selection, chart creation, button-linked macros.
-
 &nbsp;
 
 **B) Project 2 – Customer Data Cleaning** (Macro: “Clean_Data”) (_File: Macros_Project2.xlsm_)
@@ -95,7 +92,6 @@ Automated cleaning process that standardizes name fields and identifies pending 
 **Skills:**
 
 Data cleaning automation, text parsing, conditional formatting via VBA, button-based macro execution.
-
 &nbsp;
 
 **C) Project 3 – Loan Report Automation** (Macro: “Loans_Report”) (_File: Macros_Project3.xlsm_)
@@ -129,7 +125,6 @@ Week_1 → Week_3 automation result
 **Skills:**
 
 Data transformation, formula automation, sorting, text replacement, conditional formatting, documentation.
-
 &nbsp;
 
 **D) Project 4 – Departmental Performance Chart Automation** (_File: Macros_Project4.xlsm_)
@@ -167,7 +162,6 @@ A fully automated multi-sheet chart generator that ensures department-wise visua
 **Skills:**
 
 Dynamic chart automation, conditional VBA logic, visualization formatting, shortcut-based execution, code referencing.
-
 &nbsp;
 
 **DELIVERABLES**
