@@ -134,7 +134,7 @@ Week_1 → Week_3 automation result
 Data transformation, formula automation, sorting, text replacement, conditional formatting, Calculated columns, documentation.
 &nbsp;
 
-**D) Project 4 – Departmental Performance Chart Automation** (Macro:"")
+**D) Project 4 – Departmental Performance Chart Automation** (Macro:"CreateChart")
 
 (_File: Macros_Project4.xlsm_)
 &nbsp;
