@@ -173,7 +173,7 @@ A fully automated multi-sheet chart generator that ensures department-wise visua
 
 **Skills:**
 
-Dynamic chart automation, conditional VBA logic, visualization formatting, VBA editor editing, shortcut-based execution, code referencing, control structures, error handling.
+Dynamic chart automation, conditional VBA logic, visualization formatting, VBA editor editing, shortcut-based execution, code referencing, control structures, error handling(preventive). 
 
 &nbsp;
 
