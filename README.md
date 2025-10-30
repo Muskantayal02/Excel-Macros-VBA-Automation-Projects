@@ -54,16 +54,12 @@ Automate formatting and chart creation for weekly financial datasets.
 5. Verified by running macro across Week_1, Week_2, Week_3.
 6. Added another macro (“Highlighting”) to shade selected rows and linked it to an image button for interactive use.
 
-**Screenshots:**
+**Before V/S After Transformation:**
 
-Raw vs formatted data
 <img width="1920" height="1080" alt="Raw_Data1" src="https://github.com/user-attachments/assets/9ee4523d-dda4-4086-9434-2623ee13b923" />
+&nbsp;
 
 <img width="1920" height="1080" alt="Financial_Format_Chart" src="https://github.com/user-attachments/assets/88d8ce92-b9f1-4b1d-a091-044fc6a93bfa" />
-
-
-Chart insertion steps
-Button-linked automation demonstration
 
 **Outcome:**
 
@@ -92,15 +88,12 @@ Clean and structure customer payment data through automation.
 4. Applied conditional formatting to flag customers with dues > 0.
 5. Linked macro to a “Clean Data” button on a separate sheet.
 
-**Screenshots:**
+**Before V/S After Transformation:**
 
 <img width="1920" height="1080" alt="Raw_Data2" src="https://github.com/user-attachments/assets/86223452-a3ed-4b3e-94f1-7bd91ecc9592" />
+&nbsp;
 
 <img width="1920" height="1080" alt="CustomerData_Cleaned" src="https://github.com/user-attachments/assets/e6c229d6-6c74-4ad5-902a-5a08d78fe9da" />
-
-
-Raw data vs transformed view
-Macro button and execution output
 
 **Outcome:**
 
@@ -132,16 +125,12 @@ Generate formatted, validated weekly loan reports with computed ratios and highl
 7. Auto-fit columns for a clean layout.
 8. Added meaningful comments within the VBA editor for clarity.
 
-**Screenshots:**
+**Before V/S After Transformation:**
 
 <img width="1920" height="1080" alt="Raw_Data3" src="https://github.com/user-attachments/assets/c80f006a-145c-486d-9b48-a445d8f9c7f1" />
+&nbsp;
 
 <img width="1920" height="1080" alt="LoanReport_ConditionalFormatting" src="https://github.com/user-attachments/assets/7be64173-f312-4f3e-be0f-09b10f608d2e" />
-
-
-Before/After transformation
-VBA editor snippet with comments
-Week_1 → Week_3 automation result
 
 **Outcome:**
 
@@ -177,16 +166,12 @@ Procurement, Finance, Marketing, Sales, Empty Sheet
 7. Tested macro across Procurement, Finance, Marketing, and Sales sheets - confirmed auto-title and format updates.
 8. Ran on Empty Sheet → No action executed (logic validation successful).
 
-**Screenshots:**
+**Before V/S After Transformation:**
 
 <img width="1920" height="1080" alt="Raw_Data4" src="https://github.com/user-attachments/assets/e3b92d32-04bf-4bde-9b22-71d2d60ebeac" />
+&nbsp;
 
 <img width="1920" height="1080" alt="Departmental_Chart_Output" src="https://github.com/user-attachments/assets/d430b54f-8af0-4565-849e-68a86945177b" />
-
-
-Chart outputs for each department
-VBA logic (title referencing, IF condition)
-Empty sheet validation test
 
 **Outcome:**
 
