@@ -1,11 +1,12 @@
 # Excel-Macros-VBA-Automation-Projects
 A collection of practical Excel VBA macros projects automating data processing, analysis, and reporting workflows - showcasing expertise in automation, dynamic dashboards, conditional logic, and data visualization to turn repetitive tasks into efficient, scalable business solutions; streamlining business analytics and decision-making.
+&nbsp;
 
 **OVERVIEW**
 
 This repository showcases multiple **Excel VBA and Macro Automation** projects demonstrating my capability to automate data preparation, formatting, visualization, and reporting processes using Excel’s developer environment.
 
-Each project represents a practical business scenario—automating repetitive manual operations, improving consistency, and increasing reporting efficiency through VBA scripting and dynamic macros.
+Each project represents a practical business scenarios - automating repetitive manual operations, improving consistency, and increasing reporting efficiency through VBA scripting and dynamic macros.
 
 The repository highlights how data analysts can leverage Excel’s developer tools for:
 - Process optimization
@@ -13,7 +14,8 @@ The repository highlights how data analysts can leverage Excel’s developer too
 - Dynamic data formatting and charting
 - Conditional logic and event-driven automation
 
-All project outputs are consolidated as macro-enabled Excel workbooks (.xlsm), each demonstrating a distinct VBA concept and automation workflow.
+All project outputs are consolidated as **macro-enabled Excel workbooks** (.xlsm), each demonstrating a distinct VBA concept and automation workflow.
+&nbsp;
 
 **SKILLS DEMONSTRATED**
 
@@ -27,10 +29,13 @@ All project outputs are consolidated as macro-enabled Excel workbooks (.xlsm), e
 - Interactive Button & Shortcut-Based Execution
 - Multi-Sheet Automation
 - Process Documentation & Debugging
+  &nbsp;
 
 **PROJECT SUMMARIES**
+&nbsp;
 
 **A) Project 1 – Financial Data Formatting** (Macro: “Format”) (_File: Macros_Project1.xlsm_)
+&nbsp;
 
 **Goal:**
 
@@ -58,8 +63,10 @@ Button-linked automation demonstration
 **Skills:**
 
 Formatting automation, dynamic selection, chart creation, button-linked macros.
+&nbsp;
 
 **B) Project 2 – Customer Data Cleaning** (Macro: “Clean_Data”) (_File: Macros_Project2.xlsm_)
+&nbsp;
 
 **Goal:**
 
@@ -85,8 +92,10 @@ Automated cleaning process that standardizes name fields and identifies pending 
 **Skills:**
 
 Data cleaning automation, text parsing, conditional formatting via VBA, button-based macro execution.
+&nbsp;
 
 **C) Project 3 – Loan Report Automation** (Macro: “Loans_Report”) (_File: Macros_Project3.xlsm_)
+&nbsp;
 
 **Goal:**
 
@@ -116,8 +125,10 @@ Week_1 → Week_3 automation result
 **Skills:**
 
 Data transformation, formula automation, sorting, text replacement, conditional formatting, documentation.
+&nbsp;
 
 **D) Project 4 – Departmental Performance Chart Automation** (_File: Macros_Project4.xlsm_)
+&nbsp;
 
 **Goal:**
 
@@ -151,7 +162,7 @@ A fully automated multi-sheet chart generator that ensures department-wise visua
 **Skills:**
 
 Dynamic chart automation, conditional VBA logic, visualization formatting, shortcut-based execution, code referencing.
-
+&nbsp;
 
 **DELIVERABLES**
 
@@ -170,6 +181,7 @@ Screenshots Folder:
 2. CustomerData_Cleaned.png
 3. LoanReport_ConditionalFormatting.png
 4. Departmental_Chart_Output.png
+   &nbsp;
 
 **KEY HIGHLIGHTS**
 
@@ -178,6 +190,7 @@ Screenshots Folder:
 - Demonstrates data cleaning, transformation, chart automation, and error handling.
 - Focuses on dynamic referencing, conditional checks, and reusable logic.
 - Structured and documented for clarity and reproducibility.
+  &nbsp;
 
 **TECH STACK**
 
@@ -189,11 +202,13 @@ Screenshots Folder:
 | **Logic & Control** | If...Then, Loops, Exit Conditions |
 | **Formatting & Styling** | Cell, Range, and Chart Formatting |
 | **Documentation** | VBA Comments, Screenshot Documentation |
+&nbsp;
 
 **OUTCOME**
 
 This project set demonstrates hands-on automation and analytical capability using Excel VBA.
-It reflects proficiency in optimizing manual data processes into reusable automated workflows — transforming Excel from a data entry tool into a process automation platform.
+It reflects proficiency in optimizing manual data processes into reusable automated workflows - transforming Excel from a data entry tool into a process automation platform.
+&nbsp;
 
 **FUTURE ENHANCEMENTS**
 
@@ -201,6 +216,7 @@ It reflects proficiency in optimizing manual data processes into reusable automa
 - Build User Forms for interactive inputs (e.g., dynamic chart range selection).
 - Add error handling modules with message boxes for invalid entries.
 - Explore cross-file automation for consolidating multiple workbooks.
+  &nbsp;
 
 **HOW TO USE**
 
@@ -212,6 +228,7 @@ It reflects proficiency in optimizing manual data processes into reusable automa
    - Keyboard shortcuts (e.g., Ctrl + C).
 5. View transformation or chart outputs across sheets.
 6. Explore VBA code via Developer → Visual Basic Editor.
+   &nbsp;
 
 **REPOSITORY STRUCTURE**
 ```
@@ -236,5 +253,6 @@ Excel_VBA_Automation_Projects/
 │
 └── README.md
 ```
+&nbsp;
 
 **_Designed and documented by [Muskan Tayal](https://www.linkedin.com/in/muskan-tayal-820145225)_**
