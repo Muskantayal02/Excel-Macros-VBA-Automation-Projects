@@ -191,20 +191,9 @@ Excel Workbooks:
 - Macros_Project3.xlsm
 - Macros_Project4.xlsm
 
-Raw Data Screenshots:
-  
-- Raw_Data1
-- Raw_Data2
-- Raw_Data3
-- Raw_Data4
-  
-Screenshots Folder:
-
-1. Financial_Format_Chart.png
-2. CustomerData_Cleaned.png
-3. LoanReport_ConditionalFormatting.png
-4. Departmental_Chart_Output.png
-   &nbsp;
+Screenshots (for visual reference):
+Embedded within README for both raw and output data views.
+&nbsp;
 
 **KEY HIGHLIGHTS**
 
@@ -254,26 +243,14 @@ It reflects proficiency in optimizing manual data processes into reusable automa
 
 **REPOSITORY STRUCTURE**
 ```
-Excel_VBA_Automation_Projects/
+Excel_Macros_VBA_Automation_Projects/
 │
 ├── Macros_Project1.xlsm        ➜  Financial Data Formatting
 ├── Macros_Project2.xlsm        ➜  Customer Data Cleaning
 ├── Macros_Project3.xlsm        ➜  Loan Report Automation
 ├── Macros_Project4.xlsm        ➜  Department Chart Automation
 │
-├── Raw_Files/
-│   ├── Financial_Weeks.xlsx
-│   ├── Customer_Data.xlsx
-│   ├── Loan_Data.xlsx
-│   └── Departmental_Data.xlsx
-│
-├── Screenshots/
-│   ├── 1. Financial_Format_Chart.png
-│   ├── 2. CustomerData_Cleaned.png
-│   ├── 3. LoanReport_ConditionalFormatting.png
-│   └── 4. Departmental_Chart_Output.png
-│
-└── README.md
+└── README.md   ➜  Includes all embedded raw & output screenshots
 ```
 
 **_Designed and documented by [Muskan Tayal](https://www.linkedin.com/in/muskan-tayal-820145225)_**
