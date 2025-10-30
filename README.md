@@ -35,6 +35,7 @@ All project outputs are consolidated as **macro-enabled Excel workbooks** (.xlsm
 &nbsp;
 
 **A) Project 1 – Financial Data Formatting** (Macro: “Format”) 
+
 (_File: Macros_Project1.xlsm_)
 &nbsp;
 
@@ -67,6 +68,7 @@ Formatting automation, dynamic selection, chart creation, button-linked macros, 
 &nbsp;
 
 **B) Project 2 – Customer Data Cleaning** (Macro: “Clean_Data”) 
+
 (_File: Macros_Project2.xlsm_)
 &nbsp;
 
@@ -97,6 +99,7 @@ Data cleaning automation, text parsing, conditional formatting via VBA, button-b
 &nbsp;
 
 **C) Project 3 – Loan Report Automation** (Macro: “Loans_Report”) 
+
 (_File: Macros_Project3.xlsm_)
 &nbsp;
 
@@ -132,6 +135,7 @@ Data transformation, formula automation, sorting, text replacement, conditional 
 &nbsp;
 
 **D) Project 4 – Departmental Performance Chart Automation** (Macro:"")
+
 (_File: Macros_Project4.xlsm_)
 &nbsp;
 
@@ -176,8 +180,8 @@ Excel Workbooks:
 - Macros_Project2.xlsm
 - Macros_Project3.xlsm
 - Macros_Project4.xlsm
-  
-- Raw Data Files: (Raw_Files/ folder)
+
+Raw Data Files: (Raw_Files/ folder)
   
 - Financial_Weeks.xlsx
 - Customer_Data.xlsx
@@ -211,7 +215,6 @@ Screenshots Folder:
 | **Logic & Control** | If...Then, Loops, Exit Conditions |
 | **Formatting & Styling** | Cell, Range, and Chart Formatting |
 | **Documentation** | VBA Comments, Screenshot Documentation |
-&nbsp;
 
 **OUTCOME**
 
