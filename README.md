@@ -133,7 +133,7 @@ Week_1 → Week_3 automation result
 
 **Skills:**
 
-Data transformation, formula automation, sorting, text replacement, conditional formatting, Calculated columns, documentation.
+Data transformation, formula automation, sorting, text replacement, conditional formatting, validation, calculated columns, documentation, automation across sheets.
 
 &nbsp;
 
@@ -173,7 +173,7 @@ A fully automated multi-sheet chart generator that ensures department-wise visua
 
 **Skills:**
 
-Dynamic chart automation, conditional VBA logic, visualization formatting, VBA editor editing, shortcut-based execution, code referencing.
+Dynamic chart automation, conditional VBA logic, visualization formatting, VBA editor editing, shortcut-based execution, code referencing, control structures, error handling.
 
 &nbsp;
 
