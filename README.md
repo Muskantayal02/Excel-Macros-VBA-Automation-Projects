@@ -34,7 +34,8 @@ All project outputs are consolidated as **macro-enabled Excel workbooks** (.xlsm
 **PROJECT SUMMARIES**
 &nbsp;
 
-**A) Project 1 – Financial Data Formatting** (Macro: “Format”) (_File: Macros_Project1.xlsm_)
+**A) Project 1 – Financial Data Formatting** (Macro: “Format”) 
+(_File: Macros_Project1.xlsm_)
 &nbsp;
 
 **Goal:**
@@ -62,10 +63,11 @@ Button-linked automation demonstration
 
 **Skills:**
 
-Formatting automation, dynamic selection, chart creation, button-linked macros.
+Formatting automation, dynamic selection, chart creation, button-linked macros, UI Integration.
 &nbsp;
 
-**B) Project 2 – Customer Data Cleaning** (Macro: “Clean_Data”) (_File: Macros_Project2.xlsm_)
+**B) Project 2 – Customer Data Cleaning** (Macro: “Clean_Data”) 
+(_File: Macros_Project2.xlsm_)
 &nbsp;
 
 **Goal:**
@@ -74,9 +76,9 @@ Clean and structure customer payment data through automation.
 
 **Steps:**
 
-1. Recorded macro to split full names into first/last using Text to Columns.
-2. Added new column dynamically before “Balance Due”.
-3. Renamed headers programmatically.
+1. Added new column dynamically before “Balance Due”.
+2. Renamed headers programmatically.
+3. Recorded macro to split full names into first/last using Text to Columns.
 4. Applied conditional formatting to flag customers with dues > 0.
 5. Linked macro to a “Clean Data” button on a separate sheet.
 
@@ -94,7 +96,8 @@ Automated cleaning process that standardizes name fields and identifies pending 
 Data cleaning automation, text parsing, conditional formatting via VBA, button-based macro execution.
 &nbsp;
 
-**C) Project 3 – Loan Report Automation** (Macro: “Loans_Report”) (_File: Macros_Project3.xlsm_)
+**C) Project 3 – Loan Report Automation** (Macro: “Loans_Report”) 
+(_File: Macros_Project3.xlsm_)
 &nbsp;
 
 **Goal:**
@@ -105,12 +108,13 @@ Generate formatted, validated weekly loan reports with computed ratios and highl
 
 1. Applied Calibri font and styled headers (blue background, white bold text).
 2. Converted currency columns to Dollar format (Loan Amount, Installment, etc.).
-3. Added computed column Debt-to-Income = Installment / (Annual_Income / 12) using formula insertion (R1C1 style).
-4. Sorted data descending by Debt-to-Income ratio.
-5. Replaced Delinquent → Charged Off in Loan_Status.
-6. Applied conditional formatting (red fill for Charged Off).
-7. Auto-fit columns for a clean layout.
-8. Added meaningful comments within the VBA editor for clarity.
+3. Removed redundant columns.
+4. Added computed column Debt-to-Income = Installment / (Annual_Income / 12) using formula insertion (R1C1 style).
+5. Sorted data descending by Debt-to-Income ratio.
+6. Replaced Delinquent → Charged Off in Loan_Status.
+7. Applied conditional formatting (red fill for Charged Off).
+8. Auto-fit columns for a clean layout.
+9. Added meaningful comments within the VBA editor for clarity.
 
 **Screenshots:**
 
@@ -124,10 +128,11 @@ Week_1 → Week_3 automation result
 
 **Skills:**
 
-Data transformation, formula automation, sorting, text replacement, conditional formatting, documentation.
+Data transformation, formula automation, sorting, text replacement, conditional formatting, Calculated columns, documentation.
 &nbsp;
 
-**D) Project 4 – Departmental Performance Chart Automation** (_File: Macros_Project4.xlsm_)
+**D) Project 4 – Departmental Performance Chart Automation** (Macro:"")
+(_File: Macros_Project4.xlsm_)
 &nbsp;
 
 **Goal:**
@@ -142,7 +147,7 @@ Procurement, Finance, Marketing, Sales, Empty Sheet
 
 1. Formatted cell A1 as department title (bold, larger font).
 2. Auto-fit all columns dynamically.
-3. Created a combo chart with formatted bars, datalabels, transparent trendline, custom legend and background color.
+3. Created a combo chart with formatted bars, datalabels, adjust transparency of trendline, custom legend position and background color.
 4. Programmed chart title to reference Range("A1").Value for dynamic department labeling.
 5. Added conditional logic: If Range("A3").Value <> "Position" Or Range("A4").Value = "" Then Exit Sub Ensuring no chart generation on empty or invalid sheets.
 6. Assigned shortcut key Ctrl + C for macro execution.
@@ -161,7 +166,7 @@ A fully automated multi-sheet chart generator that ensures department-wise visua
 
 **Skills:**
 
-Dynamic chart automation, conditional VBA logic, visualization formatting, shortcut-based execution, code referencing.
+Dynamic chart automation, conditional VBA logic, visualization formatting, VBA editor editing, shortcut-based execution, code referencing.
 &nbsp;
 
 **DELIVERABLES**
@@ -171,12 +176,16 @@ Excel Workbooks:
 - Macros_Project2.xlsm
 - Macros_Project3.xlsm
 - Macros_Project4.xlsm
+  
 - Raw Data Files: (Raw_Files/ folder)
+  
 - Financial_Weeks.xlsx
 - Customer_Data.xlsx
 - Loan_Data.xlsx
 - Departmental_Data.xlsx
+  
 Screenshots Folder:
+
 1. Financial_Format_Chart.png
 2. CustomerData_Cleaned.png
 3. LoanReport_ConditionalFormatting.png
