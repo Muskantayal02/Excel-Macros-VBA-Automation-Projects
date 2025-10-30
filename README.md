@@ -15,7 +15,6 @@ The repository highlights how data analysts can leverage Excel’s developer too
 - Conditional logic and event-driven automation
 
 All project outputs are consolidated as **macro-enabled Excel workbooks** (.xlsm), each demonstrating a distinct VBA concept and automation workflow.
-
 &nbsp;
 
 **SKILLS DEMONSTRATED**
@@ -34,7 +33,6 @@ All project outputs are consolidated as **macro-enabled Excel workbooks** (.xlsm
   &nbsp;
 
 **PROJECT SUMMARIES**
-
 &nbsp;
 
 **A) Project 1 – Financial Data Formatting** (Macro: “Format”) (_File: Macros_Project1.xlsm_)
@@ -71,7 +69,6 @@ Formatting automation, dynamic selection, chart creation, button-linked macros.
 &nbsp;
 
 **B) Project 2 – Customer Data Cleaning** (Macro: “Clean_Data”) (_File: Macros_Project2.xlsm_)
-
 &nbsp;
 
 **Goal:**
@@ -102,7 +99,6 @@ Data cleaning automation, text parsing, conditional formatting via VBA, button-b
 &nbsp;
 
 **C) Project 3 – Loan Report Automation** (Macro: “Loans_Report”) (_File: Macros_Project3.xlsm_)
-
 &nbsp;
 
 **Goal:**
@@ -137,7 +133,6 @@ Data transformation, formula automation, sorting, text replacement, conditional 
 &nbsp;
 
 **D) Project 4 – Departmental Performance Chart Automation** (_File: Macros_Project4.xlsm_)
-
 &nbsp;
 
 **Goal:**
@@ -156,7 +151,7 @@ Procurement, Finance, Marketing, Sales, Empty Sheet
 4. Programmed chart title to reference Range("A1").Value for dynamic department labeling.
 5. Added conditional logic: If Range("A3").Value <> "Position" Or Range("A4").Value = "" Then Exit Sub Ensuring no chart generation on empty or invalid sheets.
 6. Assigned shortcut key Ctrl + C for macro execution.
-7. Tested macro across Procurement, Finance, Marketing, and Sales sheets — confirmed auto-title and format updates.
+7. Tested macro across Procurement, Finance, Marketing, and Sales sheets - confirmed auto-title and format updates.
 8. Ran on Empty Sheet → No action executed (logic validation successful).
 
 **Screenshots:**
@@ -172,6 +167,7 @@ A fully automated multi-sheet chart generator that ensures department-wise visua
 **Skills:**
 
 Dynamic chart automation, conditional VBA logic, visualization formatting, shortcut-based execution, code referencing.
+
 &nbsp;
 
 **DELIVERABLES**
