@@ -185,13 +185,13 @@ Visualization automation, conditional VBA logic, code referencing, control struc
 
 **DELIVERABLES**
 
-Excel Workbooks:
+_Excel Workbooks:_
 - Macros_Project1.xlsm
 - Macros_Project2.xlsm
 - Macros_Project3.xlsm
 - Macros_Project4.xlsm
 
-Screenshots (for visual reference):
+_Screenshots(for visual reference):_
 Embedded within README for both raw and output data views.
 &nbsp;
 
