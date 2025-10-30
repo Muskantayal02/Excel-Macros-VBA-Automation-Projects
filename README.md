@@ -19,16 +19,18 @@ All project outputs are consolidated as **macro-enabled Excel workbooks** (.xlsm
 
 **SKILLS DEMONSTRATED**
 
-- Excel VBA Programming
-- Macro Recording & Code Editing
-- Data Formatting Automation
-- Chart Creation & Dynamic Title Referencing
-- Conditional Logic (If...Then, Exit Sub)
-- Formula Automation with R1C1 Notation
-- Data Sorting & Conditional Formatting
-- Interactive Button & Shortcut-Based Execution
-- Multi-Sheet Automation
-- Process Documentation & Debugging
+- Excel VBA Programming & Macro Recording
+- Data Cleaning, Preparation & Standardization
+- Dynamic Range Selection & Automation
+- Chart Creation & Visualization Automation
+- Conditional Logic & Control Structures (If...Then, Exit Sub)
+- Formula Automation using R1C1 Notation
+- Conditional Formatting via VBA
+- Interactive Button, Image, and Shortcut-Based Macro Execution
+- Multi-Sheet Automation & Dynamic Referencing
+- Preventive Error Handling & Logic Validation
+- Process Documentation, Code Annotation, and Debugging
+- Workflow Automation for Business Reporting
   &nbsp;
 
 **PROJECT SUMMARIES**
@@ -64,7 +66,7 @@ Button-linked automation demonstration
 
 **Skills:**
 
-Formatting automation, dynamic selection, chart creation, button-linked macros, UI Integration.
+Data formatting automation, dynamic range selection, chart creation, macro-linked buttons, and UI integration for quick reporting.
 
 &nbsp;
 
@@ -96,7 +98,7 @@ Automated cleaning process that standardizes name fields and identifies pending 
 
 **Skills:**
 
-Data cleaning automation, text parsing, conditional formatting via VBA, button-based macro execution.
+Text parsing, data cleaning & structuring, conditional formatting via VBA, dynamic column creation, and button-based macro execution.
 
 &nbsp;
 
@@ -133,7 +135,7 @@ Week_1 → Week_3 automation result
 
 **Skills:**
 
-Data transformation, formula automation, sorting, text replacement, conditional formatting, validation, calculated columns, documentation, automation across sheets.
+Data transformation, formula automation with R1C1, sorting & replacement, conditional formatting, calculated columns, validation, documentation, and multi-sheet automation.
 
 &nbsp;
 
@@ -173,7 +175,7 @@ A fully automated multi-sheet chart generator that ensures department-wise visua
 
 **Skills:**
 
-Dynamic chart automation, conditional VBA logic, visualization formatting, VBA editor editing, shortcut-based execution, code referencing, control structures, error handling(preventive). 
+Visualization automation, conditional VBA logic, code referencing, control structures, preventive error handling, visualization formatting, and shortcut-based execution.
 
 &nbsp;
 
